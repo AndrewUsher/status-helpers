@@ -1,0 +1,24 @@
+{
+  "name": "status-helpers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewUsher/status-helpers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewUsher/status-helpers/issues"
+  },
+  "homepage": "https://github.com/AndrewUsher/status-helpers#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "rollup": "^1.11.3"
+  }
+}
