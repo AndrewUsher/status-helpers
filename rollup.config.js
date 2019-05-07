@@ -1,4 +1,4 @@
-const OUTPUT_DIR = 'dist'
+import babel from 'rollup-plugin-babel'
 
 export default {
   input: 'src/index.js',
@@ -16,5 +16,6 @@ export default {
       format: 'umd',
       name: 'StatusHelpers'
     }
-  ]
+  ],
+  plugins: [babel()]
 }
