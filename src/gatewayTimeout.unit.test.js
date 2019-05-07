@@ -1,6 +1,6 @@
 import { gatewayTimeout } from './gatewayTimeout'
 
-describe('serviceUnavailable', () => {
+describe('gatewayTimeout', () => {
   test('Returns correct status code', () => {
     const { statusCode } = gatewayTimeout()
     expect(statusCode).toBe(504)
