@@ -1,4 +1,7 @@
 import babel from 'rollup-plugin-babel'
+import { terser } from 'rollup-plugin-terser'
+
+const isProd = process.env.NODE_ENV === 'production'
 
 export default {
   input: 'src/index.js',
@@ -17,5 +20,5 @@ export default {
       name: 'StatusHelpers'
     }
   ],
-  plugins: [babel()]
+  plugins: [babel(), isProd && terser()]
 }
