@@ -24,7 +24,7 @@
     "@babel/core": "7.4.4",
     "@babel/preset-env": "7.4.4",
     "eslint": "5.16.0",
-    "eslint-config-standard": "12.0.0",
+    "eslint-config-standard": "15.0.0",
     "eslint-plugin-import": "2.17.2",
     "eslint-plugin-node": "9.2.0",
     "eslint-plugin-promise": "4.2.1",
