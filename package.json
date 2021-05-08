@@ -21,17 +21,17 @@
   "homepage": "https://github.com/AndrewUsher/status-helpers#readme",
   "dependencies": {},
   "devDependencies": {
-    "@babel/core": "7.4.4",
-    "@babel/preset-env": "7.4.4",
-    "eslint": "5.16.0",
-    "eslint-config-standard": "12.0.0",
-    "eslint-plugin-import": "2.17.2",
+    "@babel/core": "7.14.0",
+    "@babel/preset-env": "7.14.1",
+    "eslint": "7.26.0",
+    "eslint-config-standard": "16.0.2",
+    "eslint-plugin-import": "2.22.1",
     "eslint-plugin-node": "11.1.0",
-    "eslint-plugin-promise": "4.2.1",
-    "eslint-plugin-standard": "4.0.0",
-    "jest": "24.8.0",
-    "rollup": "1.11.3",
-    "rollup-plugin-babel": "4.3.2",
-    "rollup-plugin-terser": "4.0.4"
+    "eslint-plugin-promise": "5.1.0",
+    "eslint-plugin-standard": "5.0.0",
+    "jest": "26.6.3",
+    "rollup": "2.47.0",
+    "rollup-plugin-babel": "4.4.0",
+    "rollup-plugin-terser": "7.0.2"
   }
 }
