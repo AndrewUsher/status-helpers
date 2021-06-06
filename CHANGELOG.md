@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/AndrewUsher/status-helpers/compare/v1.1.0...v1.2.0) (2021-06-06)
+
+
+### Features
+
+* add insufficientStorage helper ([e006ff3](https://github.com/AndrewUsher/status-helpers/commit/e006ff3d7ad9face0f01e1599ac1ce5f670f90eb))
+
+
+### Bug Fixes
+
+* export new helpers ([5b6d062](https://github.com/AndrewUsher/status-helpers/commit/5b6d0625eaef934c2cb5a27c64f821b2510862e0))
+
 ## [1.1.0](https://github.com/AndrewUsher/status-helpers/compare/v1.0.0...v1.1.0) (2021-06-06)
 
 
