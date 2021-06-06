@@ -3,7 +3,7 @@ import { insufficientStorage } from './insufficientStorage'
 describe('insufficientStorage', () => {
   test('Returns correct status code', () => {
     const { statusCode } = insufficientStorage()
-    expect(statusCode).toBe(508)
+    expect(statusCode).toBe(507)
   })
 
   test('Returns message when passed in', () => {
