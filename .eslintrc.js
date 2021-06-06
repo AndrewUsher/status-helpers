@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['standard'],
+  extends: ['@drewster'],
   env: {
     jest: true
   }
