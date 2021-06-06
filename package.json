@@ -5,6 +5,9 @@
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "umd": "dist/umd/bundle.umd.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "NODE_ENV=production rollup -c",
     "lint": "eslint ./src",
