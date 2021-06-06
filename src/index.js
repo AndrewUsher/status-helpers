@@ -1,3 +1,6 @@
 export { badGateway } from './badGateway'
 export { gatewayTimeout } from './gatewayTimeout'
+export { insufficientStorage } from './insufficientStorage'
+export { loopDetected } from './loopDetected'
+export { networkAuthRequired } from './networkAuthRequired'
 export { serviceUnavailable } from './serviceUnavailable'
