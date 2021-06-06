@@ -7,15 +7,15 @@ export default {
   input: 'src/index.js',
   output: [
     {
-      file: 'dist/bundle.cjs.js',
+      dir: 'dist/cjs',
       format: 'cjs'
     },
     {
-      file: 'dist/bundle.esm.js',
+      dir: 'dist/esm',
       format: 'esm'
     },
     {
-      file: 'dist/bundle.umd.js',
+      file: 'dist/umd/bundle.umd.js',
       format: 'umd',
       name: 'StatusHelpers'
     }
