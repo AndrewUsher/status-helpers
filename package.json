@@ -8,7 +8,8 @@
   "scripts": {
     "build": "NODE_ENV=production rollup -c",
     "lint": "eslint ./src",
-    "test": "jest"
+    "test": "jest",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
