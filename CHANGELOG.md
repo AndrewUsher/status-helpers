@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/AndrewUsher/status-helpers/compare/v1.2.0...v1.2.1) (2021-06-06)
+
+
+### Bug Fixes
+
+* update test suite for insufficientStorage helper ([a528108](https://github.com/AndrewUsher/status-helpers/commit/a5281082afeea50fe2142223f428d6b357cf1c43))
+
 ## [1.2.0](https://github.com/AndrewUsher/status-helpers/compare/v1.1.0...v1.2.0) (2021-06-06)
 
 
