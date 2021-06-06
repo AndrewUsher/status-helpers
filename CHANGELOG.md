@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/AndrewUsher/status-helpers/compare/v1.0.0...v1.1.0) (2021-06-06)
+
+
+### Features
+
+* add loopDetected helper ([c560ec0](https://github.com/AndrewUsher/status-helpers/commit/c560ec06d11cf3f47e5fde1475c8b2047e6ab7f3))
+
 ## 1.0.0 (2021-06-06)
 
 
