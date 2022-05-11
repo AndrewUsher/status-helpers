@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.2](https://github.com/AndrewUsher/status-helpers/compare/v1.2.1...v1.2.2) (2022-05-11)
+
+
+### Bug Fixes
+
+* only update required files to npm ([47353f8](https://github.com/AndrewUsher/status-helpers/commit/47353f8090eeb01e881a03fc0d30dc7eba4dfe1b))
+
 ### [1.2.1](https://github.com/AndrewUsher/status-helpers/compare/v1.2.0...v1.2.1) (2021-06-06)
 
 
